@@ -1,0 +1,3 @@
+if(NOT DEFINED MIN_VER_CMAKE)
+    set(MIN_VER_CMAKE 3.1.0)
+endif()
