@@ -1,6 +1,7 @@
 # Directories
 build/
 .cache/
+data/*
 
 # Prerequisites
 *.d
