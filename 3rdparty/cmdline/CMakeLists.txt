@@ -17,5 +17,5 @@
 #     ${PROJECT_SOURCE_DIR}/test2.cpp
 # )
 
-add_executable(test test.cpp)
+add_executable(test1 test.cpp)
 add_executable(test2 test2.cpp)
